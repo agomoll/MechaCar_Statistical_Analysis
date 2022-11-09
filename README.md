@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-Using R to conduct linear regression and T-Test analyses of to compare car production and car performance factors.
+Using R to conduct linear regression and T-Test analyses to compare car production and car performance factors.
 
 ## Overview
  The purpose of this project was to make predictions and evaluations around hypothetical ‘MechaCar’ prototypes.  First, a multiple linear regression was conducted to predict fuel efficiency.  Second, descriptive statistics were used to explore suspension coil data across several manufacturing facilities.  Third, T-Test statistical analyses were performed on the suspension coil data to evaluate compliance to manufacturing standards. Lastly, additional analyses explored that may be used to investigate how MechaCar might perform against the competition. 
